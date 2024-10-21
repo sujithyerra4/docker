@@ -1,4 +1,5 @@
 FROM almalinux:9
+
 ENV  COURSE="DEVOPS"\
      DURATION="120HRS"\
      COMAPANY="JOINDEVOPS"
