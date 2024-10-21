@@ -1,0 +1,7 @@
+FROM almalinux:9
+LABEL COURSE="DEVOPS"\
+      DURATION="120HRS"\
+      COMAPANY="JOINDEVOPS"
+
+    
+ 
