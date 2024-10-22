@@ -1,7 +1,7 @@
 FROM almalinux:9
 RUN mkdir /tmp/docker
 WORKDIR /tmp/docker
-RUN pwd
+# RUN pwd
 RUN echo "heyy"> hello.txt
 CMD [ "sleep","100" ]
 
